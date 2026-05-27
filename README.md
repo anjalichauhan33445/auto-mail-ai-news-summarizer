@@ -27,12 +27,6 @@ An AI-powered Python project that fetches the latest business news, summarizes i
 
 ---
 
-## Project Structure
-
-bash project4/ │ ├── main.py ├── send_email.py ├── simple_ai.py ├── requirements.txt ├── .gitignore └── .env 
-
----
-
 ## Installation
 
 ### 1. Clone the repository
