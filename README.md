@@ -31,10 +31,6 @@ An AI-powered Python project that fetches the latest business news, summarizes i
 
 ### 1. Clone the repository
 
-bash git clone YOUR_REPOSITORY_LINK cd project4 
-
----
-
 ### 2. Create virtual environment
 
 bash python -m venv .venv 
